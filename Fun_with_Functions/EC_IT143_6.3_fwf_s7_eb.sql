@@ -1,3 +1,4 @@
 -- Step 7 – Test function with empty input
-SELECT dbo.fn_GetFirstName('') AS Result1,
-       dbo.fn_GetFirstName(NULL) AS Result2;
+SELECT *  
+FROM dbo.t_w3_schools_customers  
+WHERE LEFT(ContactName, CHARINDEX(' ', ContactName + ' ') - 1) <> dbo.ufn_get_first_name(ContactName);
