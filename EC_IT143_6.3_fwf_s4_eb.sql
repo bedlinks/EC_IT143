@@ -1,0 +1,4 @@
+-- Step 4 – Research and test findings
+-- Helpful resources:
+-- https://learn.microsoft.com/en-us/sql/t-sql/functions/charindex-transact-sql
+-- https://learn.microsoft.com/en-us/sql/t-sql/functions/left-transact-sql
