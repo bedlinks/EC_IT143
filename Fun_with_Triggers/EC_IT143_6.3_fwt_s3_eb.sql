@@ -1,0 +1,3 @@
+-- Step 3 – Research: useful resources
+-- https://www.sqlservertutorial.net/sql-server-triggers/sql-server-after-update-trigger/
+-- https://learn.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql
