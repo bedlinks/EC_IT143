@@ -1,0 +1,2 @@
+-- Step 1 – Question: How can I log when a record is updated and by who?
+-- This is useful for audits and tracking.
