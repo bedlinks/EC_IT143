@@ -4,6 +4,7 @@
 ALTER TABLE dbo.t_w3_schools_customers
 ADD LastModifiedBy NVARCHAR(100),
     LastModifiedDate DATETIME;
+GO
 
 -- Create trigger
 CREATE TRIGGER trg_UpdateCustomerAudit
@@ -18,3 +19,4 @@ BEGIN
     FROM dbo.t_w3_schools_customers c
     JOIN inserted i ON c.CustomerID = i.CustomerID;
 END;
+GO
