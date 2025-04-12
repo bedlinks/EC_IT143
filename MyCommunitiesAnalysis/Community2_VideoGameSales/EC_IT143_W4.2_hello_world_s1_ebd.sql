@@ -1,0 +1,3 @@
+-- STEP 1: Business Question
+-- What is the engagement level (helpful, funny, and awards) of reviews made by players in 2024?
+-- Can we identify the most impactful reviewers based on review engagement?
