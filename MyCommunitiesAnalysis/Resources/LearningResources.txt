@@ -1,0 +1,3 @@
+1. W3Schools SQL Tutorial - https://www.w3schools.com/sql/
+2. Microsoft Learn: Query with T-SQL - https://learn.microsoft.com/en-us/training/paths/query-relational-data-t-sql/
+3. SQL Shack - Aggregations and GROUP BY - https://www.sqlshack.com/
