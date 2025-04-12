@@ -1,0 +1,2 @@
+-- Step 1: Identify the Question
+-- Which product categories sold the most units in the year 2024?
